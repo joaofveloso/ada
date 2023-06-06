@@ -7,5 +7,5 @@ app:
   smtp:
     host: smtp.elasticemail.com
     port: 2525
-    username: joao.fodra.veloso@gmail.com
-    password: C9D9E981BDEF932EB695083ADBB8A029B41E
+    username: <email>
+    password: <token>
